@@ -1,3 +1,7 @@
+# Implement the spectral clustering approach to stochastic blockmodels.
+
+
+
 rm(list = ls())
 
 library(igraph)
